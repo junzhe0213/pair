@@ -1,0 +1,14 @@
+C:\git\配對\pair\pair\bin\Debug\pair.exe.config
+C:\git\配對\pair\pair\bin\Debug\pair.exe
+C:\git\配對\pair\pair\bin\Debug\pair.pdb
+C:\git\配對\pair\pair\obj\Debug\pair.csprojResolveAssemblyReference.cache
+C:\git\配對\pair\pair\obj\Debug\pair.csproj.CoreCompileInputs.cache
+C:\git\配對\pair\pair\obj\Debug\pair.exe
+C:\git\配對\pair\pair\obj\Debug\pair.pdb
+C:\git\pair\pair\pair\bin\Debug\pair.exe.config
+C:\git\pair\pair\pair\bin\Debug\pair.exe
+C:\git\pair\pair\pair\bin\Debug\pair.pdb
+C:\git\pair\pair\pair\obj\Debug\pair.csprojResolveAssemblyReference.cache
+C:\git\pair\pair\pair\obj\Debug\pair.csproj.CoreCompileInputs.cache
+C:\git\pair\pair\pair\obj\Debug\pair.exe
+C:\git\pair\pair\pair\obj\Debug\pair.pdb
